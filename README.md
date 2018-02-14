@@ -11,6 +11,12 @@ web project.
 
 ## Purpose
 
+To provide tutorials and stuff for
+learning the Git
+
 ## How To Contribute
 
 ## Deployment
+
+This is a simple project.
+You can deploy from where ever.
