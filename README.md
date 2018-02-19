@@ -16,6 +16,9 @@ learning the Git
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Requests for
+review.
+
 ## Deployment
 
 This is a simple project.
