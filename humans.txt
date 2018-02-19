@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brendan -- brendan@stuff -- @Brendan
 
 # THANKS
 
