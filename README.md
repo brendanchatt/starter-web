@@ -2,6 +2,7 @@
 
 This is a simple website project 
 showing how to use Git and GitHub together.
+Adding a line for example
 
 ## Introduction
 
